@@ -2,5 +2,24 @@
 ## Grupo: TCC
 ### Trabalho de conclusão de curso para Análise e Desenvolvimento de Sistemas - Mackenzie
 
-Este projeto tem como objetivo desenvolver um software de gerenciamento de projetos internos utilizando o GitHub como repositório online, o Trello para atribuição de tarefas e o Lucidchart para criação de diagramas de caso de uso. Serão fornecidas informações relevantes sobre requisitos funcionais e não funcionais, diagramas de caso de uso e descrições detalhadas dos casos principais. O software tem a intenção de ajudar as empresas a gerenciarem projetos de forma eficaz, melhorando a comunicação, organização e o acompanhamento de metas e prazos entre os membros da equipe.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mongodb)](https://skillicons.dev)
+
+Software de gerenciamento de projetos internos 
+
+O software a seguir tem o objetivo de auxiliar gerentes e equipes de projeto a organizar tarefas e responsabilidades. A interface e organizada em cards, com atribuição de responsáveis e informações relevantes sobre período de atuação, divisão de fases, entre outros. O gerente de projetos poderá utilizar o software para organizar projetos, atribuir tarefas aos respectivos usuários e gerenciar de prazo nas entregas de tarefa. Os usuários utilização a ferramenta de gestão de projetos para idealizar, planejar, administrar e celebrar o trabalho em conjunto de uma forma colaborativa. 
+
+![WhatsApp Image 2023-05-07 at 15 01 30](https://user-images.githubusercontent.com/68711721/236701844-42ca6a0f-d415-4db2-8a3d-67aae19cc4a6.jpeg)
+
+### Setup
+
+Se desejar modificar o aplicativo ou hospedá-lo em seu próprio servidor, é possível clonar o repositório: 
+
+git clone https://github.com/Gacarmo97/TCC-Pratica-Profissional-ADS.git
+
+Instale as dependências: 
+
+Rode o sotware localmente: 
+
+
+
 
