@@ -19,7 +19,8 @@ Se desejar modificar o aplicativo ou hospedá-lo em seu próprio servidor, é po
 
 git clone https://github.com/Gacarmo97/TCC-Pratica-Profissional-ADS.git
 
-Instale as dependências: Angular, Node JS, Docker com imagem de Mongo DB, Typescript e Socket IO, CSS.
+Para fazer este projeto foi utilizado as seguintes tecnologias:
+Angular, Node JS, Docker com imagem de Mongo DB, Typescript e Socket IO, CSS.
 
 Para conseguir rodar este projeto será necessário instalar:
 - Um computador com sistema operacional Windows 10 64bits, mínimo de 600mb de espaço no dispositivo de armazenamento, processador Intel core i5 ou similar e memória RAM de 4GB+.
@@ -32,13 +33,13 @@ https://nodejs.org/en
 - Instalar Angular CLI com o comando: 
 <npm install -g @angular/cli>
 Para conferir se foi instalado utilize o comando:
-< ng version>
+*<ng version>*
 
 - Para configurar o mongodb baixe e instale docker:
 https://www.docker.com/
 inicie seu Docker
 No terminal do projeto execute o código:
-docker  run -d -p 27017-27019:27017-27019 --name mongodb mongo:4.0.4
+<docker  run -d -p 27017-27019:27017-27019 --name mongodb mongo:4.0.4>
 O resultado será esse:
 
 ![image](https://github.com/Gacarmo97/TCC-Pratica-Profissional-ADS/assets/125417804/46f2ba4c-525e-4f23-8b19-0c4fed83ee40)
@@ -47,13 +48,13 @@ Rode o sotware localmente:
 
 Clicar com o botão direito na pasta CLIENTE e selecionar "open with integrated terminal"
 comando: 
-<npm install>
-<npm start>
+*<npm install>*
+*<npm start>*
 
 Clicar com o botão direito na pasta SERVER e selecionar "open with integrated terminal"
 comandos: 
-npm install ts-node -D
-npm start
+*<npm install ts-node -D>*
+*<npm start>*
 
 - Para acessar:
 http://localhost:4200/
