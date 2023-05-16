@@ -31,15 +31,17 @@ Será preciso:
 https://nodejs.org/en
 
 - Instalar Angular CLI com o comando: 
-<npm install -g @angular/cli>
-Para conferir se foi instalado utilize o comando:
-*<ng version>*
+< npm install -g @angular/cli >
+
+- Para conferir se foi instalado utilize o comando:
+< ng version >
 
 - Para configurar o mongodb baixe e instale docker:
 https://www.docker.com/
-inicie seu Docker
-No terminal do projeto execute o código:
-<docker  run -d -p 27017-27019:27017-27019 --name mongodb mongo:4.0.4>
+- inicie seu Docker
+- No terminal do projeto execute o código:
+< docker  run -d -p 27017-27019:27017-27019 --name mongodb mongo:4.0.4 >
+
 O resultado será esse:
 
 ![Docker_Mongo](https://github.com/Gacarmo97/TCC-Pratica-Profissional-ADS/assets/125417804/6030bf18-a39a-4732-a571-a31f4427a49a)
