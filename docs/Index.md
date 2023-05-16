@@ -23,7 +23,11 @@ O software a seguir tem o objetivo de auxiliar gerentes e equipes de projeto a o
 
 ![image](https://github.com/Gacarmo97/TCC-Pratica-Profissional-ADS/assets/125417804/45b7bbfe-2060-4719-906f-dec3f541a4f4)
 
+Figura 01 – Diagrama de Caso de Uso para Gerente
+
 ![image](https://github.com/Gacarmo97/TCC-Pratica-Profissional-ADS/assets/125417804/ea1a7626-e7ae-4347-a1a1-3e8f696649d0)
+
+Figura 02 – Diagrama de Caso de Uso para Funcionário
 
 ### Descrição de casos de uso
 
