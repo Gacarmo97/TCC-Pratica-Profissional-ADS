@@ -42,19 +42,19 @@ No terminal do projeto execute o código:
 <docker  run -d -p 27017-27019:27017-27019 --name mongodb mongo:4.0.4>
 O resultado será esse:
 
-![image](https://github.com/Gacarmo97/TCC-Pratica-Profissional-ADS/assets/125417804/46f2ba4c-525e-4f23-8b19-0c4fed83ee40)
+![Docker_Mongo](https://github.com/Gacarmo97/TCC-Pratica-Profissional-ADS/assets/125417804/6030bf18-a39a-4732-a571-a31f4427a49a)
 
 Rode o sotware localmente: 
 
 Clicar com o botão direito na pasta CLIENTE e selecionar "open with integrated terminal"
 comando: 
-*<npm install>*
-*<npm start>*
+- < npm install >
+- < npm start >
 
 Clicar com o botão direito na pasta SERVER e selecionar "open with integrated terminal"
 comandos: 
-*<npm install ts-node -D>*
-*<npm start>*
+- < npm install ts-node -D >
+- < npm start >
 
 - Para acessar:
 http://localhost:4200/
