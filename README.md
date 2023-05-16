@@ -42,7 +42,7 @@ No terminal do projeto execute o código:
 <docker  run -d -p 27017-27019:27017-27019 --name mongodb mongo:4.0.4>
 O resultado será esse:
 
-![image](https://github.com/Gacarmo97/TCC-Pratica-Profissional-ADS/assets/125417804/46f2ba4c-525e-4f23-8b19-0c4fed83ee40)
+![Docker_Mongo](https://github.com/Gacarmo97/TCC-Pratica-Profissional-ADS/assets/125417804/6030bf18-a39a-4732-a571-a31f4427a49a)
 
 Rode o sotware localmente: 
 
