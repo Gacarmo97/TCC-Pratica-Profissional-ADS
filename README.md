@@ -53,8 +53,8 @@ comando:
 
 Clicar com o botão direito na pasta SERVER e selecionar "open with integrated terminal"
 comandos: 
-- <npm install ts-node -D>
-- <npm start>
+- < npm install ts-node -D >
+- < npm start >
 
 - Para acessar:
 http://localhost:4200/
