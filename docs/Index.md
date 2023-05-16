@@ -27,11 +27,11 @@ O software a seguir tem o objetivo de auxiliar gerentes e equipes de projeto a o
 
 ### Descrição de casos de uso
 
-# Caso de uso: Criação de projeto
+#### Caso de uso: Criação de projeto
 
 A ferramenta de gerenciamento de projetos possibilitará que o gerente de projeto, crie, atualize, edite e exclua as tarefas. Sempre que criado um projeto é necessário a criação de quadros de tarefas dentro dos quadros de tarefas será atribuída data de início e fim de execução. Após a criação dos quadros de tarefas é necessário atribuir para um usuário executa-la.
 
-# Caso de uso: Execução de tarefa
+#### Caso de uso: Execução de tarefa
 
 O usuário ira efetuar o acesso a ferramenta de gerenciamento de projeto com usuário e senha. Após acesso na tela inicial ficará disponível as tarefas atribuídas pelo gerente, o usuário dentro do quadro de tarefas pode criar listas e/ou adicionar comentários para facilitar na organização das atividades. Após conclusão da tarefa é necessário editar o status da atividade para concluído e gerando automaticamente uma notificação para o gerente.
 
