@@ -31,9 +31,9 @@ Será preciso:
 https://nodejs.org/en
 
 - Instalar Angular CLI com o comando: 
-<npm install -g @angular/cli>
+< npm install -g @angular/cli >
 Para conferir se foi instalado utilize o comando:
-*<ng version>*
+< ng version >
 
 - Para configurar o mongodb baixe e instale docker:
 https://www.docker.com/
