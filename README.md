@@ -48,6 +48,7 @@ Rode o sotware localmente:
 
 Clicar com o botão direito na pasta CLIENTE e selecionar "open with integrated terminal"
 comando: 
+- <npm install>
 - "<npm install>"
 - <npm start>
 
